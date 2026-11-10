@@ -1,0 +1,11 @@
+type,key,rate,fixed,note
+category,Electronics,0.80,0,Assumed product cost as share of price (thin retail margin on branded tech)
+category,Home Appliances,0.70,0,Assumed product cost as share of price
+category,Sports,0.60,0,Assumed product cost as share of price
+category,Books,0.60,0,Assumed product cost as share of price (publisher discount ~40%)
+category,Clothing,0.50,0,Assumed product cost as share of price
+category,Beauty Products,0.45,0,Assumed product cost as share of price
+payment,Credit Card,0.029,0.30,Assumed card processing fee: 2.9% + $0.30 per order
+payment,PayPal,0.0349,0.49,Assumed PayPal fee: 3.49% + $0.49 per order
+payment,Debit Card,0.015,0.20,Assumed debit fee: 1.5% + $0.20 per order
+fulfilment,Per order,0,8.00,Assumed pick pack and shipping: $8 flat per order

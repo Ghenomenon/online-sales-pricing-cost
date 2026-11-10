@@ -1,0 +1,49 @@
+category,region,payment_method,month,orders,units,revenue
+Beauty Products,Europe,PayPal,2024-01,5,5,699.95
+Beauty Products,Europe,PayPal,2024-02,5,7,331.98
+Beauty Products,Europe,PayPal,2024-03,5,6,417.0
+Beauty Products,Europe,PayPal,2024-04,5,6,201.48
+Beauty Products,Europe,PayPal,2024-05,5,5,127.3
+Beauty Products,Europe,PayPal,2024-06,5,6,209.49
+Beauty Products,Europe,PayPal,2024-07,5,5,464.0
+Beauty Products,Europe,PayPal,2024-08,5,6,170.7
+Books,North America,Credit Card,2024-01,5,14,308.86
+Books,North America,Credit Card,2024-02,5,16,422.90999999999997
+Books,North America,Credit Card,2024-03,5,17,252.82999999999998
+Books,North America,Credit Card,2024-04,5,15,220.85
+Books,North America,Credit Card,2024-05,5,13,149.87
+Books,North America,Credit Card,2024-06,5,14,149.86
+Books,North America,Credit Card,2024-07,5,12,163.88
+Books,North America,Credit Card,2024-08,5,13,192.87
+Clothing,Asia,Debit Card,2024-01,5,16,1789.8400000000001
+Clothing,Asia,Debit Card,2024-02,5,19,1284.81
+Clothing,Asia,Debit Card,2024-03,5,24,1009.76
+Clothing,Asia,Debit Card,2024-04,5,20,769.8
+Clothing,Asia,Debit Card,2024-05,5,17,829.88
+Clothing,Asia,Debit Card,2024-06,5,19,579.45
+Clothing,Asia,Debit Card,2024-07,6,18,1095.48
+Clothing,Asia,Debit Card,2024-08,4,12,769.91
+Electronics,North America,Credit Card,2024-01,6,10,7999.9
+Electronics,North America,Credit Card,2024-02,4,12,2899.88
+Electronics,North America,Credit Card,2024-03,6,10,4499.9
+Electronics,North America,Credit Card,2024-04,5,9,6709.91
+Electronics,North America,Credit Card,2024-05,5,5,4198.96
+Electronics,North America,Credit Card,2024-06,5,7,3599.9300000000003
+Electronics,North America,Credit Card,2024-07,5,6,2006.97
+Electronics,North America,Credit Card,2024-08,4,7,3066.96
+Home Appliances,Europe,PayPal,2024-01,5,6,2169.94
+Home Appliances,Europe,PayPal,2024-02,5,8,2869.92
+Home Appliances,Europe,PayPal,2024-03,5,9,5059.91
+Home Appliances,Europe,PayPal,2024-04,5,7,1989.85
+Home Appliances,Europe,PayPal,2024-05,6,10,1989.8200000000002
+Home Appliances,Europe,PayPal,2024-06,5,7,1479.89
+Home Appliances,Europe,PayPal,2024-07,5,7,1417.87
+Home Appliances,Europe,PayPal,2024-08,4,5,1668.96
+Sports,Asia,Credit Card,2024-01,5,17,1579.83
+Sports,Asia,Credit Card,2024-02,5,15,2993.87
+Sports,Asia,Credit Card,2024-03,5,16,1609.8400000000001
+Sports,Asia,Credit Card,2024-04,5,8,2559.8
+Sports,Asia,Credit Card,2024-05,5,10,1159.66
+Sports,Asia,Credit Card,2024-06,5,8,1365.93
+Sports,Asia,Credit Card,2024-07,5,5,1648.88
+Sports,Asia,Credit Card,2024-08,5,9,1408.71
