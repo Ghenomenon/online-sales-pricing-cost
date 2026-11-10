@@ -17,7 +17,7 @@ Which products and price points carry the business, and where would a discount o
 | Revenue fell 40.9% from January–April ($50,653) to May–August ($29,915), driven by fewer high-ticket orders | Not cost-dependent |
 | Items under $50 are 39.6% of orders but 8.4% of revenue | Not cost-dependent |
 | Electronics brings 43.4% of revenue but 27.9% of contribution (16.2% margin) | Holds in 99.9% |
-| A 5% electronics discount cuts its contribution by 19% to 44%, depending on its true product cost | Holds in every case tested |
+| A 5% electronics discount cuts its contribution by 19% to 79%, depending on its true product cost (70% to 90% of price) | Holds in every case tested |
 | Books has one of the two lowest margins; a book order needs about $22 to break even | Holds in 75% |
 | Books margin is below 20% | Holds in 54%: fragile |
 
