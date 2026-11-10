@@ -21,7 +21,7 @@ Which products and price points carry the business, and where would a discount o
 | Books has one of the two lowest margins; a book order needs about $22 to break even | Holds in 75% |
 | Books margin is below 20% | Holds in 54%: fragile |
 
-Electronics product cost moves overall margin from 20.8% to 29.4%, more than every other assumption combined. It is the first real number to collect.
+Electronics product cost moves overall margin from 20.8% to 29.4%, nearly twice the swing of the next largest assumption. It is the first real number to collect.
 
 ## What is in the repository
 
